@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">motorcycle_HUD_Instructables</string>
+
+    <string name="access_token" translatable="false">!!! ENTER YOUR MAPBOX SDK TOKE HERE !!!</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+</resources>
